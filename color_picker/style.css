@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.colorbox {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+#hexaNumber {
+  margin-right: 10px;
+}

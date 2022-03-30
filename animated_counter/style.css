@@ -1,0 +1,15 @@
+.area {
+  background-color: rebeccapurple;
+  text-align: center;
+  width: 30%;
+  height: 220px;
+  font-size: 1.5rem;
+  color: white;
+  padding: 0.5rem;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

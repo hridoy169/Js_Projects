@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-img {
+  background-image: url('pic.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  width: 100%;
+  height: 600px;
+}
+
+.navbar {
+  padding: 30px;
+  text-align: center;
+  background-color: red;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.afterScroll {
+  background-color: rebeccapurple;
+}

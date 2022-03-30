@@ -1,0 +1,39 @@
+.title {
+  text-align: center;
+}
+
+img {
+  margin-right: 60px;
+}
+
+.btn {
+  text-align: center;
+}
+
+#on {
+  background-color: red;
+  color: white;
+  font-size: 1.4rem;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+#on:hover {
+  background-color: rgb(180, 16, 16);
+}
+
+#off {
+  background-color: rgb(65, 12, 211);
+  color: white;
+  font-size: 1.4rem;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+#off:hover {
+  background-color: rgb(57, 27, 139);
+}
